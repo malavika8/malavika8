@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**malavika8/malavika8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hello , I'm Malavika Ravindra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://github.com/malavika8/malavika8/blob/master/undraw_freelancer_b0my%20(1).gif" width="320">
+<p><em>Data Analytics Engineer </br>Having Strong Coding and Database skills ,Domain Experience in Banking,Energy Sectors and worked for companies like WellsFargo and Infosys 
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me on Web! 
+
+[![Linkedin: -Malavika-Ravindra](https://www.linkedin.com/in/malavika-ravindra/)
+
+ 
+<h3>More About Me! <img align='left' img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"></h3>
+
+```Python 3.7
+Malavika-Ravindra = {
+  pronouns: 'she' | 'her',
+  code: [Python,R,VB,C++],
+  tools: [NLTK, Scikit, Gensim, Seaborn, HTML, CSS, Docker]
+  BI_or_VisualizationTools :[Tableau,PowerBI]
+  SoftSkills:[Stakeholder/Client Management,Team leadership,Good written and verbal communication]
+  }
+```
+
+- 👯 I’m looking to collaborate on Predictive Analytics/Machine Learning Projects or Kaggle Competitions
+
+
