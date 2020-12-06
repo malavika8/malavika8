@@ -1,7 +1,7 @@
 
 
 <h2> Hello , I'm Malavika Ravindra ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/malavika8/malavika8/undraw_freelancer_b0my(1).gif" width="320">
+<img align='right' src="https://github.com/malavika8/malavika8/undraw_freelancer_b0my (1).gif" width="320">
 <p><em>Data Analytics Engineer </br>Having Strong Coding and Database skills ,Domain Experience in Banking,Energy Sectors and worked for companies like WellsFargo and Infosys 
 </em></p>
 
