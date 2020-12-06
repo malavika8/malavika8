@@ -1,7 +1,7 @@
 
 
-<h2> Hello , I'm Malavika Ravindra ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/malavika8/malavika8/blob/main/undraw_freelancer_b0my%20(1).gif" width="320">
+<h2> Hello , I'm Malavika Ravindra ! </h2>
+<img align='right' src="https://github.com/malavika8/malavika8/blob/main/Prof.jpeg" width="340">
 <p><em>Data Analytics Engineer </br>Having Strong Coding and Database skills ,Domain Experience in Banking,Energy Sectors and worked for companies like WellsFargo and Infosys 
 </em></p>
 
@@ -19,7 +19,8 @@ Malavika-Ravindra = {
   code: [Python,R,VB,C++],
   tools: [NLTK, Scikit, Gensim, Seaborn, HTML, CSS, Docker]
   BI_or_VisualizationTools :[Tableau,PowerBI]
-  SoftSkills:[Stakeholder/Client Management,Team leadership,Good written and verbal communication]
+  SoftSkills:Stakeholder/Client Management,Team leadership,
+             Good written and verbal communication
   }
 ```
 
