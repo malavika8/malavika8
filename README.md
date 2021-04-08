@@ -1,6 +1,6 @@
 
 
-<h2> Hello , I'm Malavika Ravindra ! </h2>
+<h2> Hello , I'm Malavika Ravindra . </h2>
 <img align='right' src="https://github.com/malavika8/malavika8/blob/main/Prof.jpeg" width="340">
 <p><em>Data Analytics Engineer </br>Having Strong Coding and Database skills ,Domain Experience in Banking,Energy Sectors and worked for companies like WellsFargo and Infosys 
 </em></p>
